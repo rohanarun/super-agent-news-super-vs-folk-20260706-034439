@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg?oc=5"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Folk|competitor_comparison|people comparing Super with Folk|2026-07-06T03:43:20.313621+00:00') -> choice(hero='comparison-lab', font='Cabinet Grotesk', components=['decision-matrix','workflow-playbook-timeline','implementation-checklist'], gsap=['card-stacking','hover-physics']). AIDA Check: Attention hero -> Interest proof grids -> Desire motion chapter -> Action CTA. Font Selection: Cabinet Grotesk verified. Hero Math Verification: max-width 1120px, clamp headline 2\u20133 lines. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded animations. Label Sweep & Button Check: black primary CTA, white secondary CTA verified.",
+  "generated_at": "2026-07-06T03:44:46.435234+00:00",
+  "headline": "Super vs Folk \u2014 choosing a personal AI agent for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, practical comparison for operators evaluating Super and Folk. Folk fits lighter automations and niche workflows; Super is positioned for durable, repeated computer-use workflows thanks to a reusable computer-use cache. This guide explains the market context, how to evaluate both tools, and when Super is the sharper alternative."
+}
